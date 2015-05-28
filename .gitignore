@@ -1,0 +1,17 @@
+Debug
+Release
+ipch
+.svn
+
+
+
+*.sdf
+*.suo
+*.opensdf
+
+
+
+
+
+
+
